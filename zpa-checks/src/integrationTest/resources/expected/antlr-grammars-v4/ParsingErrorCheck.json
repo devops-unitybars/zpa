@@ -329,8 +329,20 @@
     "examples/partitioned_tables.sql" : [
         32
     ],
+    "examples/pivot02.sql" : [
+        5
+    ],
+    "examples/pivot03.sql" : [
+        5
+    ],
     "examples/pivot04.sql" : [
         19
+    ],
+    "examples/pivot05.sql" : [
+        4
+    ],
+    "examples/pivot06.sql" : [
+        4
     ],
     "examples/pivot09.sql" : [
         3
